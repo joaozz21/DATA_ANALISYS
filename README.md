@@ -1,3 +1,3 @@
 # BCC19JoaoHenrique
-Atividades desenvolvidas durante as aulas de BCC(Bases Computacionais da Ciência), durante o BCT(Bacharelado em Ciência e Tecnologia).
+Atividades desenvolvidas durante as aulas de BCC(Bases Computacionais da Ciência), para o curso de BCT(Bacharelado em Ciência e Tecnologia).
 jupyter notebook(Python)
